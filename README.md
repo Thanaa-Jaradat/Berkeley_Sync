@@ -34,4 +34,4 @@ This models **Berkeley's approach** of decentralized adjustment using a centrali
 
 ### 2. Run the simulation
 ```bash
-python berkeley_sync.py
+python Berkeley_Sync.py
